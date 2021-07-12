@@ -6,6 +6,7 @@ bin
 obj
 appsettings.json
 wwwroot
+datingapp.db
 *.db
 # User-specific files
 *.rsuser
